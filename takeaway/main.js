@@ -1,1 +1,0 @@
-$toggleClassNew('.nav__burger', '.nav__links', 'active')
